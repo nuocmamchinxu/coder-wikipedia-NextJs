@@ -1,5 +1,5 @@
 import React from 'react'
-import Link from "next/Link"
+import Link from 'next/Link'
 import { useEffect } from 'react'
 import { useRouter } from 'next/router'
 export default function NotFound() {
